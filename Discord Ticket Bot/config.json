@@ -1,0 +1,17 @@
+{
+    "1331829495480713317": {
+        "support_role": 1449733923176185918,
+        "category_id": 1449742230100250675,
+        "panel_channel": 1449723862861353010,
+        "support_types": {
+            "billingcategory": {
+                "category_id": null,
+                "role_id": null
+            },
+            "<@&1449751630626029651>role": {
+                "category_id": null,
+                "role_id": null
+            }
+        }
+    }
+}
